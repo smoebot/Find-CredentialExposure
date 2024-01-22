@@ -13,7 +13,7 @@ function Find-CredentialExposure {
         Author: Joel Ashman
         v0.1 - (2024-01-02) Initial version
     .EXAMPLE
-        Find-CredentialExposure -Email jashman@example.com 
+        Find-CredentialExposure -Email kramer@monks.com 
     #>
 
     #requires -version 5
